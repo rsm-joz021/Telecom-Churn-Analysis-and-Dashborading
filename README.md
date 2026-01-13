@@ -87,16 +87,16 @@ These dashboards enable actionable, data-driven retention decisions.
 ---
 
 ## Files
-
+```{text}
 ├── telco.ipynb
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── tableau_churn_profile.csv
 ├── tableau_predicted_churn.csv
+```
 
 ---
 
 
----
 
 ## Tools & Libraries
 
