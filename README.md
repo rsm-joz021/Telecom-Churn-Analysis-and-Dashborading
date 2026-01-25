@@ -3,6 +3,7 @@ A Kaggle machine learning project for telecom customer churn prediction with bus
 
 This project analyzes customer churn in the telecommunications industry and builds machine learning models to identify customers at high risk of leaving. The goal is to support **proactive retention strategies** by maximizing the detection of potential churners.
 
+Tableau visualization: https://public.tableau.com/app/profile/joyi.zhang/viz/telcocustomerchurn_17688971802380/Story1
 ---
 
 ## Business Objective
